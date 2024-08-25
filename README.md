@@ -9,3 +9,22 @@ Epistasis, a genetic phenomenon where the effect of a gene mutation depends on t
 References 
 
 - Gorelick AN, Sánchez-Rivera FJ, Cai Y, Bielski CM, Biederstedt E, Jonsson P, Richards AL, Vasan N, Penson AV, Friedman ND, et al. 2020. Phase and context shape the function of composite oncogenic mutations. Nature. 582(7810):100–103. doi:https://doi.org/10.1038/s41586-020-2315-8. [accessed 2024 Aug 19]. https://www.nature.com/articles/s41586-020-2315-8#Sec1.
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Arhan Rupani - arhan.rupani@mail.utoronto.ca
+
+Project Link: 
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
